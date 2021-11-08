@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Busra
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on .. 
+- 💞️ I’m looking to collaborate on data manipulation, data visualization and model building in python 
 - 📫 How to reach me: you can always reach me from busrabirol@gmail.com
 
 <!---
